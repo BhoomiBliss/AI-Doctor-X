@@ -1,6 +1,5 @@
 # 🚀 AI Doctor X – The Future of AR-Powered Healthcare 🏥  
 
-![AI Doctor X](https://your-image-link-here.com)  
 
 🔥 **AI Doctor X** is a next-generation **AI-powered, AR-driven healthcare web app** that allows users to **see, track, and predict** disease progression in **real-time 3D**. This project merges **Augmented Reality (AR), AI, and interactive 3D modeling** to create a **visually stunning and futuristic medical visualization tool**.  
 
