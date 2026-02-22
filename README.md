@@ -140,7 +140,7 @@ To transform traditional medical data into **interactive 3D experiences**, enabl
 
 ### 1️⃣ Clone the Repository
 
-git clone - - -https://github.com/your-username/AI-Doctor-X.git� 
+git clone :  https://github.com/your-username/AI-Doctor-X.git� 
 - cd AI-Doctor-X
 
 ---
